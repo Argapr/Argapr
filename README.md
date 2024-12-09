@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Arga Pratama<br>👀 I’m interested in web development<br>🌱 I’m currently learning ReactJS
+👋 Hi, I’m Arga Pratama<br>👀 I’m interested in full stack development<br>🌱 I’m currently learning Flutter
 
 
 ## 🌐 Socials:
